@@ -1,21 +1,27 @@
-# PrimeiroProjetoSumList
+<h1 align="center">Welcome to my First project with Elixir👋</h1>
+<p>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
-**TODO: Add description**
+> 🧞 Create my first project with Elixir, in this project we going to sum every numbers in a list using recursion
 
-## Installation
+## Install
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `primeiro_projeto_sum_list` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:primeiro_projeto_sum_list, "~> 0.1.0"}
-  ]
-end
+```sh
+git clone https://github.com/peguimasid/Elixir-First-Project
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/primeiro_projeto_sum_list](https://hexdocs.pm/primeiro_projeto_sum_list).
+## Author
 
+👤 **Guilhermo Masid**
+
+* Github: [@peguimasid](https://github.com/peguimasid)
+* LinkedIn: [@Guilhermo Masid](https://www.linkedin.com/in/guilhermo-masid-494677b8/)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***

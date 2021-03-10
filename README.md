@@ -13,6 +13,11 @@
 git clone https://github.com/peguimasid/Elixir-First-Project
 ```
 
+## Usage
+- Instalar o [Elixir](https://elixir-lang.org/install.html)
+- Rodar: `iex -S mix`
+- Chamar a função como no exemplo: ` PrimeiroProjetoSumList.call([1,2,3,4,5,6])`
+
 ## Author
 
 👤 **Guilhermo Masid**
